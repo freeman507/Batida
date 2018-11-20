@@ -2,7 +2,7 @@
 Um projeto para ser usado como atividade em sala de aula
 
 <h3>Executar</h3>
-<p>ant compile jar run</p>
+<p>Para executar digitamos o comando <b>ant compile jar run</b> dentro da pasta /Batida que possui o arquivo build.xml</p>
 <h3>Instalar o Ant</h3>
 
 <p>Primeiramente, acesse o link <a href="http://ant.apache.org/bindownload.cgi" target="_blank">ant.apache.org/bindownload.cgi</a> e faça o download do bin. Depois extraia o conteúdo em alguma pasta, nesse exemplo, utilizamos a “C:\apache-ant”.</p>
