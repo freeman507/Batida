@@ -11,7 +11,7 @@ Um projeto para ser usado como atividade em sala de aula
 
 <p>Crie a variável ANT_HOME, apontando para o diretório extraído (<b>C:\apache-ant</b>).</p>
 
-<p>E por último, na variável PATH, adicione <b>%ANT_HOME%\bin</b>.</p>
+<p>E por último, na variável PATH, adicione <b>%ANT_HOME%\bin</b></p>
 
 <p>Agora para executar uma aplicação que precise do ant, basta ir no prompt dentro do diretório do aplicativo e digitar o comando <b>ant run</b>.</p>
 
